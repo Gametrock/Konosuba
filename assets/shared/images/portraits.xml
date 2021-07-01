@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="petals_animation.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AquaCry" x="0" y="0" width="360" height="290"/>
+	<SubTexture name="AquaPortDefault" x="360" y="0" width="358" height="294"/>
+	<SubTexture name="BFPortDefault" x="718" y="0" width="423" height="282"/>
+	<SubTexture name="BFPortScared" x="1141" y="0" width="401" height="287"/>
+	<SubTexture name="BFPortWTF" x="1542" y="0" width="366" height="296"/>
+	<SubTexture name="DarknessHappy" x="0" y="296" width="296" height="252"/>
+	<SubTexture name="DarknessPortDefault" x="296" y="296" width="246" height="242"/>
+	<SubTexture name="GFPort" x="542" y="296" width="344" height="252"/>
+	<SubTexture name="MeguminPort" x="886" y="296" width="537" height="316"/>
+</TextureAtlas>

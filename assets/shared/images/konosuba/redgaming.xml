@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redgaming.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red Dancing Beat0000" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0001" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0002" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0003" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0004" x="703" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0005" x="1406" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0006" x="1406" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0007" x="2109" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0008" x="2109" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0009" x="0" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0010" x="0" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0011" x="703" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0012" x="703" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0013" x="1406" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0014" x="1406" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0015" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0016" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0017" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0018" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0019" x="2109" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0020" x="2109" y="467" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0021" x="0" y="934" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0022" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0023" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0024" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0025" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0026" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0027" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0028" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red Dancing Beat0029" x="0" y="0" width="703" height="467"/>
+	<SubTexture name="red sad0000" x="703" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0001" x="703" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0002" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0003" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0004" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0005" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0006" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0007" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0008" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0009" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0010" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0011" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0012" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0013" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0014" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0015" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0016" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0017" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0018" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0019" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0020" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0021" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0022" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0023" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0024" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0025" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0026" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0027" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0028" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0029" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0030" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0031" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0032" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0033" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0034" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0035" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0036" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0037" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0038" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0039" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0040" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0041" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0042" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0043" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0044" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0045" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0046" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0047" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0048" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0049" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0050" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0051" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0052" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0053" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0054" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0055" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0056" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0057" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0058" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0059" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0060" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0061" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0062" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0063" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0064" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0065" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0066" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0067" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0068" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0069" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0070" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0071" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0072" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0073" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0074" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0075" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0076" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0077" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0078" x="1402" y="934" width="699" height="470"/>
+	<SubTexture name="red sad0079" x="1402" y="934" width="699" height="470"/>
+</TextureAtlas>
