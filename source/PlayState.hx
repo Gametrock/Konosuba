@@ -903,12 +903,14 @@ class PlayState extends MusicBeatState
 				gfVersion = 'gf-pixel';
 			case 'schoolEvil':
 				gfVersion = 'gf-pixel';
-			case 'house':
-				gfVersion = 'redgaming';
 		}
 
 		if (curStage == 'limo')
 			gfVersion = 'gf-car';
+
+		if (storyWeek > 2) {
+			gfVersion = 'redgaming';
+		}
 
 		gf = new Character(400, 130, gfVersion);
 		gf.scrollFactor.set(0.95, 0.95);
@@ -1005,8 +1007,10 @@ class PlayState extends MusicBeatState
 				boyfriend.y += 220;
 				gf.x += 180;
 				gf.y += 300;
-			case 'house':
-				gf.y += 100;
+		}
+
+		if (storyWeek > 2) {
+			gf.y += 100;
 		}
 
 		add(gf);
